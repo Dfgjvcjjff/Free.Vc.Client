@@ -1,2 +1,0 @@
-# Mail-app
-Mailing app
